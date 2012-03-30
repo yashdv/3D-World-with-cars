@@ -1,0 +1,172 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 07.03.2012 17:14:52
+
+newmtl C30WG
+	Ns 7.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 0.9765
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C300WOO2.bmp
+	map_Kd C300WOO2.bmp
+
+newmtl C30WF
+	Ns 7.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 0.9765
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C300WFL.bmp
+	map_Kd C300WFL.bmp
+	map_bump C300WFL.bmp
+	bump C300WFL.bmp
+
+newmtl C30RL
+	Ns 7.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 0.9765
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C300WRL.bmp
+	map_Kd C300WRL.bmp
+	map_bump C300WRL.bmp
+	bump C300WRL.bmp
+
+newmtl c30k
+	Ns 7.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 0.9765
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C300WKL.bmp
+	map_Kd C300WKL.bmp
+	map_bump C300WKL.bmp
+	bump C300WKL.bmp
+
+newmtl C30TL
+	Ns 7.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 0.9765
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C300WTL.bmp
+	map_Kd C300WTL.bmp
+	map_bump C300WTL.bmp
+	bump C300WTL.bmp
+
+newmtl C30LL
+	Ns 7.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 0.9765
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C300WLL.bmp
+	map_Kd C300WLL.bmp
+	map_bump C300WLL.bmp
+	bump C300WLL.bmp
+
+newmtl c30bric
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2039 0.1137 0.0510
+	Ks 0.0396 0.0396 0.0396
+	Ke 0.0000 0.0000 0.0000
+	map_Ka BRICKTAN.bmp
+	map_Kd BRICKTAN.bmp
+	map_bump BRICKTAN.bmp
+	bump BRICKTAN.bmp
+
+newmtl wood2
+	Ns 7.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 0.9765
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C300WOO2.bmp
+	map_Kd C300WOO2.bmp
+	map_bump C300WOO2.bmp
+	bump C300WOO2.bmp
+
+newmtl ROOF1
+	Ns 8.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0431 0.0431 0.0431
+	Ks 0.0396 0.0396 0.0396
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C300ROOF.bmp
+	map_Kd C300ROOF.bmp
+
+newmtl ROOF22
+	Ns 8.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0431 0.0431 0.0431
+	Ks 0.0396 0.0396 0.0396
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C300ROO2.bmp
+	map_Kd C300ROO2.bmp
+	map_bump C300R1B2.bmp
+	bump C300R1B2.bmp
+
+newmtl ROOF4
+	Ns 8.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0431 0.0431 0.0431
+	Ks 0.0396 0.0396 0.0396
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C300ROO4.bmp
+	map_Kd C300ROO4.bmp

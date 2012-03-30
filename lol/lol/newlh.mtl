@@ -1,0 +1,50 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 07.03.2012 19:55:16
+
+newmtl _lihosmaller_roof
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka roof_tiles.bmp
+	map_Kd roof_tiles.bmp
+	map_bump roof_tiles BUMP.bmp
+	bump roof_tiles BUMP.bmp
+
+newmtl _lihostone
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6824 0.6824 0.6824
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka LIMESTO3.bmp
+	map_Kd LIMESTO3.bmp
+	map_bump LIMESTO3_BUMP.bmp
+	bump LIMESTO3_BUMP.bmp
+
+newmtl _lihoRoof
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka roof_tiles.bmp
+	map_Kd roof_tiles.bmp
+	map_bump roof_tiles BUMP.bmp
+	bump roof_tiles BUMP.bmp

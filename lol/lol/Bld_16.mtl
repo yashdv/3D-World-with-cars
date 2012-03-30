@@ -1,0 +1,78 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration 
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+newmtl ground1
+	 Ka 0 0 0
+	 Kd 0.85098 0.847059 0.815686
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+map_Kd 16_ground.bmp
+newmtl glass
+	 Ka 0 0 0
+	 Kd 0.0588235 0.0588235 0.0588235
+	 Ks 0.0588235 0.0588235 0.0588235
+	 illum 2
+	 Ns 8
+newmtl floor
+	 Ka 0 0 0
+	 Kd 0.32549 0.321569 0.266667
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+map_Kd 16_wall.bmp
+newmtl window1
+	 Ka 0 0 0
+	 Kd 0.858824 0.854902 0.823529
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+map_Kd 16_wall.bmp
+newmtl window2
+	 Ka 0 0 0
+	 Kd 0.45098 0.45098 0.45098
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+newmtl wall
+	 Ka 0 0 0
+	 Kd 0.282353 0.415686 0.356863
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+map_Kd 16_wall.bmp
+newmtl roof
+	 Ka 0 0 0
+	 Kd 0.847059 0.843137 0.803922
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+map_Kd 16_wall.bmp
+newmtl roofdark
+	 Ka 0 0 0
+	 Kd 0.243137 0.254902 0.290196
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+newmtl roof1
+	 Ka 0 0 0
+	 Kd 0.294118 0.313726 0.337255
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+newmtl column
+	 Ka 0 0 0
+	 Kd 0.694118 0.686275 0.619608
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+map_Kd 16_wall.bmp
+newmtl chim
+	 Ka 0 0 0
+	 Kd 0.25098 0.25098 0.25098
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
